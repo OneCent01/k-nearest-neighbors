@@ -1,0 +1,90 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-knn-component",
+        "scope": null,
+        "escapedName": "react-knn-component",
+        "name": "react-knn-component",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/jacobpenney/Desktop/holdNPMpachages"
+    ]
+  ],
+  "keywords": ["react", "machine", "learning", "D3", "AI", "knn", "KNearestNeighbors", "k-nearest", "react+D3", "data", "visualization"],
+  "_from": "react-knn-component@latest",
+  "_id": "react-knn-component@0.0.1",
+  "_inCache": true,
+  "_location": "/react-knn-component",
+  "_nodeVersion": "6.11.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-knn-component-0.0.1.tgz_1503953449203_0.19060542085208"
+  },
+  "_npmUser": {
+    "name": "foryourthoughts",
+    "email": "jmpenney22@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-knn-component",
+    "scope": null,
+    "escapedName": "react-knn-component",
+    "name": "react-knn-component",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-knn-component/-/react-knn-component-0.0.1.tgz",
+  "_shasum": "fd1e5e10d54bb6a41f94846d6bd9ba914a270f27",
+  "_shrinkwrap": null,
+  "_spec": "react-knn-component",
+  "_where": "/Users/jacobpenney/Desktop/holdNPMpachages",
+  "author": {
+    "name": "Your name",
+    "email": "your email"
+  },
+  "dependencies": {
+    "react": "^15.5.4",
+    "webpack": "^2.6.1"
+  },
+  "description": "Put a description here",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "fd1e5e10d54bb6a41f94846d6bd9ba914a270f27",
+    "tarball": "https://registry.npmjs.org/react-knn-component/-/react-knn-component-0.0.1.tgz"
+  },
+  "main": "build/index.js",
+  "maintainers": [
+    {
+      "name": "foryourthoughts",
+      "email": "jmpenney22@gmail.com"
+    }
+  ],
+  "name": "react-knn-component",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react": "^15.5.4"
+  },
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.10"
+}
